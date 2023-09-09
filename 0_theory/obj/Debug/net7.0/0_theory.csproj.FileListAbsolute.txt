@@ -1,0 +1,14 @@
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/0_theory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/0_theory.AssemblyInfoInputs.cache
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/0_theory.AssemblyInfo.cs
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/0_theory.csproj.CoreCompileInputs.cache
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/bin/Debug/net7.0/0_theory
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/bin/Debug/net7.0/0_theory.deps.json
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/bin/Debug/net7.0/0_theory.runtimeconfig.json
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/bin/Debug/net7.0/0_theory.dll
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/bin/Debug/net7.0/0_theory.pdb
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/0_theory.dll
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/refint/0_theory.dll
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/0_theory.pdb
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/0_theory.genruntimeconfig.cache
+/Users/stepanbenes/Dropbox/0_code/C#/0_theory/obj/Debug/net7.0/ref/0_theory.dll
